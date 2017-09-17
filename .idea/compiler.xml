@@ -10,9 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="hello-app" target="1.5" />
-      <module name="hello-app-business" target="1.5" />
-      <module name="hello-app-business-impl" target="1.5" />
+      <module name="hello-app" target="1.8" />
       <module name="hello-app-web" target="1.8" />
     </bytecodeTargetLevel>
   </component>
